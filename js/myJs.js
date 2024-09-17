@@ -1,6 +1,6 @@
 const textConfig = {
   text1: "Xin chào người đẹp!",
-  text2: "Ở đây có một chàng hoàng tủ bị dính lời nguyền biến thành quái vật, em sẵn sàng giải cứu hoàng tử chứ",
+  text2: "Ở đây có một chàng hoàng tử bị dính lời nguyền biến thành quái vật, em sẵn sàng giải cứu hoàng tử chứ?",
   text3: "Hoàng tử sẽ giải được lời nguyền nếu gặp được công chúa của mình. Em đồng ý gặp chàng chứ?",
   text4: "Nếu em ko trả lời mà thoát ra là mất hết quà của mình đó nhaaa :v",
   text5: "Nằm mơ à???",
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://heyzine.com/flip-book/ae8a3ce7c0.html";
+            window.location = "https://heyzine.com/flip-book/6c45a86fd6.html";
           },
         });
       }
